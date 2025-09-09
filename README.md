@@ -3,7 +3,7 @@
 
 ### Sumário
 1. [Visão Geral](1-visao-geral.md)
-   * [Público-alvo](1-visao-geral.md#público-alvo)
+   * [Público-alvo](1-visao-geral.md#publico-alvo)
    * [Objetivo do Guia PNLD](1-visao-geral.md#objetivo-do-guia-pnld)
 2. [Acesso ao Guia PNLD](2-acesso-ao-guia.md)
    * [Onde encontrar os Guias](2-acesso-ao-guia.md#onde-encontrar-os-guias)
