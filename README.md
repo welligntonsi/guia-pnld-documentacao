@@ -10,4 +10,6 @@
    * [Compatibilidade](2-acesso-ao-guia.md#compatibilidade)
 3. [Estrutura do Guia PNLD](3-estrutura-do-guia-pnld.md)
    * [Apresentação](3-estrutura-do-guia-pnld.md#apresentacao)
+   * [Acesse as Obras](3-estrutura-do-guia-pnld.md#acesse-as-obras)
+   * [Orientações sobre o PNLD](3-estrutura-do-guia-pnld.md#orientacoes-sobre-o-pnld)
 
