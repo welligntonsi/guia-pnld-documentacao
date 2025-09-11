@@ -1,5 +1,4 @@
-# Visão Geral Testanto, não funcionou
-
+# Visão Geral
 Os **Guias Digitais do PNLD** são a porta de entrada para conhecer as coleções e obras aprovadas no programa.  
 
 Eles apresentam:  
